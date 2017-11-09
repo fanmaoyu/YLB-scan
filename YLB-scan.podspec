@@ -16,7 +16,7 @@ Pod::Spec.new do |s|
   #
 
   s.name         = "YLB-scan"
-  s.version      = "0.0.1"
+  s.version      = "0.0.2"
   s.summary      = "scan page"
 
   # This description is used to generate tags and improve search results.
